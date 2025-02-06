@@ -1,0 +1,6 @@
+# JetBrians IDE
+.idea/
+
+# compiled objects
+*.o
+*.wasm
